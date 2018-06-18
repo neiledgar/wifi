@@ -11,3 +11,4 @@ At this time, package `wifi` supports the following operating systems:
 If you would like to contribute support for another operating system, your
 contributions would be very welcome!  Feel free to file an issue to discuss
 your plans.
+
